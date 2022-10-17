@@ -1,7 +1,8 @@
 # Mod20_challenge
 # UW-finctech-2022
 This is  a public repo for the Module 12 Challenge of the UW Fintech Bootcamp in 2022.
-<img src="https://github.com/Virginia440/Mod20_challenge/blob/main/Execution_results/Challenge%20logo.PNG" 
+
+<img src="https://github.com/Virginia440/Mod20_challenge/blob/main/Execution_results/Challenge%20logo.PNG">
 
 ## Software Control Version
 
